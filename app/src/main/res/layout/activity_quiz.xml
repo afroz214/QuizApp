@@ -68,6 +68,7 @@
             android:ems="10"
             android:hint="Enter ur Answer"
             android:inputType="textPersonName"
+            android:textColor="#fff"
             android:textColorHint="#fff"
             android:textSize="18sp" />
     </LinearLayout>
